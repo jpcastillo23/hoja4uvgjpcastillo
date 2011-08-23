@@ -64,6 +64,8 @@ public class SinglyLinked<E>{
 		return tempo.value();
 	}
         /**
+         * pre: ther is nothing ho ho ho
+         * post: there is nothing to.. nevers do something this method.. ironicly hu..
          * Muestra el primer objeto de la lista sin 
          * eleminar algo
          * no hay cambio
